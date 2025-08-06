@@ -1,0 +1,4 @@
+run="npm run dev"
+entrypoint="src/App.jsx"
+
+hidden = ["package-lock.json", "vite.config.js", '.gitignore']
